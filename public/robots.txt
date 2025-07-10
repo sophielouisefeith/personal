@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Main pages
+Allow: /
+Allow: /cv
+
+# Sitemaps
+Sitemap: https://sophielouisefeith.com/sitemap.xml
+
+# Block common non-content paths (if they exist)
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /.well-known/
+
+# Allow search engines to crawl everything else
+Crawl-delay: 1
