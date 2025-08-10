@@ -1,4 +1,4 @@
-# Sophie Louise Feith - Personal Website
+# Personal Webpage - Sophie Louise Feith
 
 A modern, responsive personal website for Sophie Louise Feith, showcasing her work in conscious technology, AI integration consulting, and privacy architecture.
 
@@ -24,8 +24,8 @@ Make sure you have Node.js installed on your system:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd sophie-website
+   git clone https://github.com/sophielouisefeith/personal.git
+   cd personal
    ```
 
 2. **Install dependencies**
@@ -44,7 +44,7 @@ Make sure you have Node.js installed on your system:
 ## 📁 Project Structure
 
 ```
-sophie-website/
+personal/
 ├── public/
 │   ├── robots.txt          # SEO crawling instructions
 │   ├── sitemap.xml         # Site structure for search engines
