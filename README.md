@@ -1,6 +1,6 @@
 # Personal Webpage - Sophie Louise Feith
 
-A modern, responsive personal website for Sophie Louise Feith, showcasing her work in conscious technology, AI integration consulting, and privacy architecture.
+A modern, responsive personal website for Sophie Louise Feith, showcasing her work in conscious technology, AI integration, and privacy architecture.
 
 ## 🌟 Features
 
